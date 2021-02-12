@@ -3,6 +3,10 @@ body {
   margin: auto;
 }
 
+main {
+  width: 760px;
+}
+
 h1  {
   background-color: #A62A2A;
   text-align: center;
