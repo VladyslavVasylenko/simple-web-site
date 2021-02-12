@@ -1,0 +1,38 @@
+body {
+  width: 800px;
+  margin: auto;
+}
+
+h1  {
+  background-color: #A62A2A;
+  text-align: center;
+  color: #FFFDE2;
+}
+
+.main-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.blue-text {
+  color: #1A09FF;
+}
+
+.block-imeg {
+  text-align: center;
+}
+
+.block-imeg-img {
+  border-color: #000000;
+  border-style: dashed;
+}
+
+footer {
+  background-color: #000000;
+}
+
+.footer-text {
+  color:  #FFFDE2;
+  text-align: center;
+}
